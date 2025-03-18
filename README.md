@@ -1,1 +1,1 @@
-# Web2
+# Web application on Java and JSF
